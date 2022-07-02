@@ -279,21 +279,21 @@ module.exports = {
 		},
 		
 
-		{
-			type: 'category',
-			label: 'Getting Started',
-			// collapsible: true,
-			// collapsed: true,
-			items: [
-				'eightshift-libs',
-				'eightshift-frontend-libs',
-				'requirements',
-				'versions',
-				'theme',
-				'plugin',
+		// {
+		// 	type: 'category',
+		// 	label: 'Getting Started',
+		// 	// collapsible: true,
+		// 	// collapsed: true,
+		// 	items: [
+		// 		'eightshift-libs',
+		// 		'eightshift-frontend-libs',
+		// 		'requirements',
+		// 		'versions',
+		// 		'theme',
+		// 		'plugin',
 			 
-			],
-		},
+		// 	],
+		// },
 			
 	]
 	// docs: {
