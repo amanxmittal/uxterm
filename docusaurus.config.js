@@ -21,44 +21,44 @@ module.exports = {
 				alt: 'Eightshift Development kit Logo',
 				src: 'img/eightshift-dev-kit-logo.svg',
 			},
-			items: [
-				{
-					to: '/get-started',
-					activeBasePath: 'pages',
-					label: 'Get Started',
-					position: 'right',
-				},
-				{
-					to: 'docs/welcome',
-					activeBasePath: 'welcome',
-					label: 'Docs',
-					position: 'right',
-				},
-				{
-					to: '/blog',
-					activeBasePath: 'blog',
-					label: 'Blog',
-					position: 'right',
-				},
-				{
-					to: '/storybook/',
-					activeBasePath: 'storybook',
-					label: 'Storybook',
-					position: 'right',
-				},
-				{
-					to: '/sass',
-					activeBasePath: 'sass',
-					label: 'Sass',
-					position: 'right',
-				},
-				{
-					to: '/showcase',
-					activeBasePath: 'showcase',
-					label: 'Showcase',
-					position: 'right',
-				},
-			],
+			// items: [
+			// 	{
+			// 		to: '/get-started',
+			// 		activeBasePath: 'pages',
+			// 		label: 'Get Started',
+			// 		position: 'right',
+			// 	},
+			// 	{
+			// 		to: 'docs/welcome',
+			// 		activeBasePath: 'welcome',
+			// 		label: 'Docs',
+			// 		position: 'right',
+			// 	},
+			// 	{
+			// 		to: '/blog',
+			// 		activeBasePath: 'blog',
+			// 		label: 'Blog',
+			// 		position: 'right',
+			// 	},
+			// 	{
+			// 		to: '/storybook/',
+			// 		activeBasePath: 'storybook',
+			// 		label: 'Storybook',
+			// 		position: 'right',
+			// 	},
+			// 	{
+			// 		to: '/sass',
+			// 		activeBasePath: 'sass',
+			// 		label: 'Sass',
+			// 		position: 'right',
+			// 	},
+			// 	{
+			// 		to: '/showcase',
+			// 		activeBasePath: 'showcase',
+			// 		label: 'Showcase',
+			// 		position: 'right',
+			// 	},
+			// ],
 		},
 		prism: {
 			theme: require('prism-react-renderer/themes/dracula'),
