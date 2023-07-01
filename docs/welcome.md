@@ -9,6 +9,9 @@ title: Welcome
 Eightshift Development Kit is a modern, developer-friendly solution that makes building large, feature-rich WordPress projects painless. 
 It contains all the tools you need to start building a modern WordPress theme or plugin, using battle-tested front-end and back-end development tools and practices.
 
+<icon icon="mdi:github" height="48" /> This is a GitHub icon.
+<iconfa icon="fa-brands fa-github" size="lg" /> This is a GitHub icon.
+
 ### Features
 
 The Eightshift Development Kit provides you with a lot of useful features, so let's take a quick look at some of the core ones:

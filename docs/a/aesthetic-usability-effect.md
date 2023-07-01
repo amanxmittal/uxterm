@@ -3,33 +3,19 @@ id: aesthetic-usability-effect
 title: Aesthetic-Usability Effect
 ---
 
-[![docs-source](https://img.shields.io/badge/SRC-UX%20Companion-blue)](https://www.uxcompanion.com/)
+[![docs-source](https://img.shields.io/badge/SRC-UX%20Companion-blue)](https://play.google.com/store/apps/details?id=com.cyberduck.uxcompanion)
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**A visually appealing design is perceived to be easier to use**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+A phenomenon where a good looking design is perceived as more usable than one that is less appealing, whether or not that is actually the case.
 
-Examples of the 80/20 rule include:
+Masaaki Kurosu and Kaori Kashimura, researchers at Hitachi in Tokyo, demonstrated the aesthetic-usability effect in their study, *Apparent Usability vs Inherent Usability: Experimental analysis on the determinants of the apparent usability*. Their study measured the difference between the 'inherent' usability of a product and its 'apparent' usability by asking test participants to rate the beauty and usability of interfaces. It was shown that 'the user may be strongly affected by the aesthetic aspect of the interface even when they try to evaluate the interface in its functional aspects'.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+This effect may influence user opinion more than expected, affecting the user's behaviour and their perception of the ease of use of a systemn. It can be witnessed in a wide range of design applications, from physical products to digital interfaces.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Apparent Usability vs Inherent Usability. Experimental analysis on the determinants of the apparent usability](https://www.researchgate.net/publication/290957555_Apparent_usability_vs_inherent_usability_experimental_analysis_on_the_determinants_of_the_apparent_usability) - M. Kurosu & K. Kashimura
+* 📃 [Emotion & Design: Attractive things work better](http://www.jnd.org/dn.mss/emotion_design_at.html) - Donald A. Norman

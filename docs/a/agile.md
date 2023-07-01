@@ -3,33 +3,30 @@ id: agile
 title: Agile
 ---
 
-[![docs-source](https://img.shields.io/badge/SRC-UX%20Companion-blue)](https://www.uxcompanion.com/)
+[![docs-source](https://img.shields.io/badge/SRC-UX%20Companion-blue)](https://play.google.com/store/apps/details?id=com.cyberduck.uxcompanion)
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**An iterative, incremental and highly flexible approach to designing and developing digital products**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+The term Agile was coined in 2001 in the Agile Manifesto. Agile is a highly flexible and pragmatic approach to delivering digital projects. It anticipates and embraces unpredictability and emphasizes close collaboration of a cross-functional team, evolving requirements, incremental and iterative development and continuous testing.
 
-Examples of the 80/20 rule include:
+The approach aspires to deliver solutions that best meet customer needs With minimal costs, waste, and time. It contrasts with traditional waterfall approaches, which can be more linear, sequential and struggle to accommodate change.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+There are multiple Agile frameworks. For instance, Dynamic System Model (DSDM) and Extreme Programming (XP) are frameworks that focus on software development. The popular Scrum framework suits software development and also broader project management.
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Agile frameworks are generally tailored to the needs of the organizations using them, but tend to include:
+
+* Active customer involvement 
+* Frequent, usually daily, communication
+* Close collaboration between stakeholders
+* A team that's empowered to make decisions
+* Evolving requirements and minimal documentation cycles (or sprints) resulting in small, incremental releases
+* Testing early and often throughout the project
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Agile Management](https://en.wikipedia.org/wiki/Agile_management) - Wikipedia
+* 📃 [Agile Project Management Definition](http://searchcio.techtarget.com/definition/Agile-project-management) - TechTarget
+* 📃 [Agile Project Management for Dummies](http://www.dummies.com/careers/project-management/agile-project-management-for-dummies-cheat-sheet/) - For Dummies
+* 📃 [Manifesto for Agile Software Development](http://agilemanifesto.org) - Agilemanifesto.org

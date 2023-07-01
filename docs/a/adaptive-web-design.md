@@ -3,33 +3,24 @@ id: adaptive-web-design
 title: Adaptive Web Design (AWD)
 ---
 
-[![docs-source](https://img.shields.io/badge/SRC-UX%20Companion-blue)](https://www.uxcompanion.com/)
+[![docs-source](https://img.shields.io/badge/SRC-UX%20Companion-blue)](https://play.google.com/store/apps/details?id=com.cyberduck.uxcompanion)
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**Adapting web pages for the capabilities of the device or browser used to view them**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+The term Adaptive Web Design (AWD) was coined by Aaron Gustafson to describe a way of optimising web pages for the device or browser used to view them. Beginning with principles of progressive enhancement, AWD seeks to create an appropriate experience for users no matter what device or platform they Use.
 
-Examples of the 80/20 rule include:
+AWD uses techniques such as responsive web design (RWD) and feature detection to deliver an optimised version of the site. Though visuals will change, ideally functionality will be similar, and content should be consistent everywhere.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+Optimisations may include increasing the size of controls to make them touch-friendly, integrating functionality like telephone calls or camera use when compatible hardware is detected, or sending smaller images to devices on slower internet connections
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+
+<iconfa icon="fa-solid fa-book" size="lg" />
+<iconfa icon="fa-solid fa-newspaper" size="lg" />
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📘 [Adaptive Web Design](https://adaptivewebdesign.info/) - Aaron Gustafson
+* 📃 [The Many Faces of 'Adaptive Design'](http://bradfrost.com/blog/post/the-many-faces-of-adaptive-design/) - Brad Frost
+* 📃 [The Principles of Adaptive Design](http://bradfrost.com/blog/post/the-principles-of-adaptive-design/) - Brad Frost

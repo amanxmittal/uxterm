@@ -3,7 +3,7 @@ id: privacy-by-design
 title: Privacy by Design
 ---
 
-[![docs-source](https://img.shields.io/badge/SRC-UX%20Companion-blue)](https://www.uxcompanion.com/)
+[![docs-source](https://img.shields.io/badge/SRC-UX%20Companion-blue)](https://play.google.com/store/apps/details?id=com.cyberduck.uxcompanion)
 
 #### Define
 

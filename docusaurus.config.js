@@ -60,6 +60,10 @@ module.exports = {
 			// 	},
 			// ],
 		},
+		tableOfContents: {
+			minHeadingLevel: 2,
+			maxHeadingLevel: 5,
+		  },
 		prism: {
 			theme: require('prism-react-renderer/themes/dracula'),
 			additionalLanguages: ['php'],
