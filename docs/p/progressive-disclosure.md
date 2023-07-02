@@ -7,29 +7,16 @@ title: Progressive Disclosure
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**A method for reducing complexity by showing only necessary or requested Information**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+A technique for handling complex or feature-rich designs. By keeping the initial design simple and revealing less important information in stages, complexity can be reduced.
 
-Examples of the 80/20 rule include:
+In interface design, a common application of progressive disclosure is to show the most frequently used features at the top level, and hide seldom used features in another layer, e.g. in a submenu. In this way, key features are noticeable and easily accessible, as infrequently used options are not a distraction.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+The prioritisation of information should be carefully researched and verified to ensure it meets user needs and expectations. Once prioritised, the 80/20 rule can be used to determine what should be shown and what should be hidden.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📘 [100 Things Every Designer Needs to Know About People](https://www.amazon.co.uk/Things-Designer-People-Voices-Matter-ebook/dp/B004X1V1CS) - Susan Weinschenk
+* 📃 [Progressive Disclosure](https://www.nngroup.com/articles/progressive-disclosure/) - Nielsen Norman Group
+* 📃 [Progressive disclosure](https://en.wikipedia.org/wiki/Progressive_disclosure) - Wikipedia

@@ -208,6 +208,7 @@ module.exports = {
 			collapsible: true,
 			collapsed: false,
 			items: [
+				'r/rapid-prototyping',
 				'r/reciprocity',
 				'r/recognition-over-recall',
 				'r/responsive-web-design',

@@ -7,29 +7,15 @@ title: Personas
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**Example characters who represent the user groups of a site, brand, or product**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Personas are created to better understand the goals, desires, and limitations of each key groups of users or stakeholders for a design. As part of a user-centred design, personas are useful in making design decisions, defining features, and refining interactions.
 
-Examples of the 80/20 rule include:
-
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Personas are typically created from data collected from user interviews. This data can include user behaviour, aims. ambitions, abilities, and environment. Developers often use additional details to create a well-rounded character. More than one persona is usually created for each product or design to represent the key groups, but only the most relevant persona should be the primary focus.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [7 core ideas about personas and the user experience](https://measuringu.com/personas-ux/) - Measuring usability
+* 📃 [Introduction to user personas](http://www.ux-lady.com/introduction-to-user-personas/e) - LIX Ledy
+* 📃 [Personas (user experience)](https://en.wikipedia.org/wiki/Persona_(user_experience)) - Wikipedia
+* 📘 [undercover User Experience Design (Voices That Matter)](https://www.amazon.co.uk/Undercover-Experience-Design-Voices-Matter-ebook/dp/B0045JKJ7G) - Cennydd Bowles. James Box

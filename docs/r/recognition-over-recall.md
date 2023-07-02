@@ -7,29 +7,18 @@ title: Recognition over Recall
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**Recognising familiar things is easier than recalling them from memory**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Recognition memory is simply the realisation that something has been experienced before. It is easier to develop than recall memory, and it lasts longer. Recall memory is the retrieval of events or information from the past. It is slower, and harder to develop and maintain.
 
-Examples of the 80/20 rule include:
+Stimulating recognition memory is more effective than expecting users to recall things unaided, For example, it's easier to choose the correct answer from a list of possible answers than it is to remember the correct answer outright. The list of answers narrows the number of possibilities that need to be considered, and provides cues which help us to pinpoint the correct memories.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+Furthermore, a familiar option is often preferable to an unfamiliar option. Simply recognising one of the available options is often enough reason for users to choose it.
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Make options clearly visible and available to aid recognition memory. Don't rely on users to recall essential information without help.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Memory Recognition and Recall in User Interfaces](https://www.nngroup.com/articles/recognition-and-recall/) - Nielsen Norman Group
+* 📘 [Recognition Over Recall Universal Principles of Design](https://www.amazon.co.uk/gp/product/1592535879) - Lidwell, Holden and Butler
+* 📃 [Recognition over recall](http://ui-patterns.com/patterns/Recognition-over-recall) - UI Patterns

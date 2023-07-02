@@ -7,29 +7,14 @@ title: Paper Prototyping
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**Disposable interface mock-ups, sketched on paper for quick iteration and experimentation**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Website design in its most crude form, this exercise encourages designers and stakeholders to sketch interface concepts on paper to experiment quickly and efficiently. By working roughly with paper and pen, ideas can be tested and discarded before creators become attached to their work. Crucially, a great deal of progress can be made without spending time on detailed functional prototypes.
 
-Examples of the 80/20 rule include:
-
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Paper prototyping can be an effective kick off exercise with clients, helping to surface requirements and expectations, and share vision for the project. Prototyping can be carried out as a group exercise, or participants can create sketches individually followed by group discussion to combine concepts for further exploration. The results of these sessions are useful reference points to take forward into wireframes or prototypes.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [7 myths about paper prototyping](http://www.userfocus.co.uk/articles/paperprototyping.html) - User Focus
+* 📃 [Paper Prototyping](https://en.wikipedia.org/wiki/Paper_prototyping) - Wikipedia
+* 📃 [Paper Prototyping](https://alistapart.com/article/paperprototyping) - A List Apart
