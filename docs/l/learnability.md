@@ -7,29 +7,17 @@ title: Learnability
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**Refers to the ease with which the use of a product can be picked up and understood by users.**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Learnability describes a platform's capability to help users become familiar with the functionality easily and quickly. If a product, website, app or software has high learnability, the amount of time (or training) a person needs to become familiar with the system is reduced. It's vital for the success of a platform!
 
-Examples of the 80/20 rule include:
+Considering learnability encourages designers to seek a balance between designing for first time users and experts. Intelligent design can ensure first time users get up to speed easily and quickly without hindering expert (or power) users who demand more from a product or service.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+Ways to improve learnability include understanding how users expect similar products to work. Aim to provide functionality that match users' expectations, unless a different approach is found to be more intuitive. Usability testing is the key to proving great learnability in a product, as designers can see how users will interact with their product. That's why usability is closely linked to learnability.
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Progressive disclosure is another technique that's valuable for increasing learnability. Making products look simple to use helps to establish a good initial perception. De-cluttering the user interface is one way to achieve this For example, showing users a selection of the most important options they might need, with specialised features for advanced users easily obtainable on request.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Learnability: 5 Principles of Interaction Design to Supercharge Your IJI](https://amanmittal.me) - Give Good UX
+* 📃 [When is Learnability More Important than Usability?](https://amanmittal.me) - Michael Wilson

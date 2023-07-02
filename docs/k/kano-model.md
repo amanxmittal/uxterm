@@ -7,29 +7,21 @@ title: Kano Model
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**A product development theory that classifies features into five areas to aid prioritization**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+By classifying features into five categories, designers can meet basic needs and deliver delightful innovation without scaring off users.
 
-Examples of the 80/20 rule include:
+* **Must-have** features are the minimum expected functionality; they are taken for granted. Users will not be excited if they are present, but disappointed if they are absent.
+* **One-dimensional** received differently depending on how fully (or well) they are implemented. Users will be excited if they are implemented well, and disappointed if they are not.
+* **Attractive** features are unexpected. Users will be excited if they are present, but not disappointed if they are absent.
+* **Indifferent** features will neither excite nor disappoint users.
+* **Reverse** features are divisive; their reception depends on individual needs or desires. When present, some users will be excited, but others will be disappointed.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+The model can also to be used to track the shift of features over time as innovative features become basic needs.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Kano Model](https://en.wikipedia.org/wiki/Kano_model) - Wikipedia
+* 📘 [The Customer-Driven Organization: Employing the Kano Model](https://www.amazon.co.uk/Customer-Driven-Organization-Employing-Kano-Model/dp/1482217104) - Lance Coleman
+* 📃 [Understanding the Kano Model - A Tool for Sophisticated Designers](https://articles.uie.com/kano_model/) - User Interface Engineering
+* 📃 [Using The Kano Model To Prioritize Product Development](https://www.mindtheproduct.com/2013/07/using-the-kano-model-to-prioritize-product-development/) - Mind the Product

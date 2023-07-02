@@ -7,29 +7,22 @@ title: Laddering
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**A one-to-one interview technique to uncover the underlying reason behind a user's behaviour or decision**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Laddering is a technique that helps interviewers gain deeper insight into the behaviour and rationale behind the participant's decisions. It can also be used to extract more detailed responses from conservative participants.
 
-Examples of the 80/20 rule include:
+Interviewers often start with a simple, broad question. Listening closely to the participant's response, they would follow-up with another question to probe further. An example of this format would be:
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+Question: Why did you choose that pattern?
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Answer: It was really simple.
+
+Question: Why is a simple pattern important to you?
+
+There are issues associated with this technique. As interviewers probe deeper, their questions can become more personal for the participant. If they are uncomfortable, participants could answer untruthfully to divert the focus elsewhere, or avoid the question completely. Alternatively, participants may genuinely not know the answer to a question.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Laddering Questions: Drilling Down Deep and Moving Sideways in UX Research](https://www.interaction-design.org/literature/article/laddering-questions-drilling-down-deep-and-moving-sideways-in-ux-research) - Interaction Design Foundation
+* 📃 [Ladder Interview](https://en.wikipedia.org/wiki/Ladder_interview) - Wikipedia
+* 📃 [Laddering: A Research Interview Technique for Uncovering Core Values](https://www.uxmatters.com/mt/archives/2009/07/laddering-a-research-interview-technique-for-uncovering-core-values.php) - UX Matters

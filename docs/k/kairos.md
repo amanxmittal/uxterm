@@ -7,29 +7,17 @@ title: Kairos
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**The opportune moment when users are most susceptible to relevant, persuasive messages.**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Kairos is an Ancient Greek word that translates as the supreme moment', originally referring to persuasive in rhetoric. It's a key persuasive technique. Considering Kairos is essential to boost appeal with audiences exactly when they are most likely to be persuaded, or when the content is most useful to them.
 
-Examples of the 80/20 rule include:
+In UX design, applying Kairos effectively means considering the context in which a message or opportunity will be presented to the user. That's combined with analysis of when the user is mos likely to engage with it. For example, museum visitors are encouraged to 'exit through the gift shop' as they're more likely to purchase items after they have appreciated the exhibition. Similarly, there's a better chance digital users will engage with content if it's presented to them at a relevant and beneficial point in their journey. It's where their attention and interest peaks.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Considering the timing and context of information from the user's perspective is an essential element of creating effective user journeys that lead to successful outcomes. Understanding patterns of user behaviour is vital. Determining at what point in their journey, day or even lifetime that a user's choice is made can be valuable in UX design, favouring those decisive. influential moments through Kairos.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [5 Concepts You Need to Understand to Communicate Persuasively: Ethos, Pathos, Logos, Kairos, Topos](http://thevisualcommunicationguy.com/2013/08/07/5-concepts-you-need-to-understand-to-communicate-persuasively) - Curtis Newbold
+* 📃 [Kairos](https://en.m.wikipedia.org/wiki/Kairos) - Wikipedia
+* 📃 [Kairos Design Pattern](http://ui-patterns.com/patterns/Kairos#fnr2) - UI-Patterns.com
+* 📘 [Writing Arguments - A Rhetoric with Readings (8th Edition)](https://www.amazon.com/Writing-Arguments-Rhetoric-Readings-Johnson/dp/B008D8PEKM) - J.D. Ramage, J.C. Bean & J. Johnson

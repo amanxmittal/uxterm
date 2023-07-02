@@ -7,29 +7,20 @@ title: Hook Model
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**A four-phase process that companies use to design habit-forming products and services**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Nir Eyal defined the Hook Model as a process where users become 'addicted' to a product or service. The model builds upon BJ Fogg's Behavioural Model (Behaviour = Motivation + Ability + Trigger).
 
-Examples of the 80/20 rule include:
+The hook has four sequential stages that if repeated can generate unprompted, repeat user engagement. These four stages are :
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+* **Trigger** - that cues the user's action. Initially external triggers (e.g. an alert) are required. After going through the hook repeatedly, internal triggers, often negative emotions (e.g. fear or anxiety), suffice to engage the user as the behaviour has become habit (e.g. Tweeting when bored).
+* **Action** - is the behaviour done in anticipation of reward (e.g. receiving a 'Like'). Actions require triggers and their likelihood depends on the user's motivation and how easy the action is.
+* **Variable Rewards** - are required to form habits. Anticipation of unpredictable rewards is highly motivating, and activates brain areas associated with desire.
+* **Investment** - is what the user puts into the product to improve it for their next use (e.g. inviting friends, subscribing). Investments make triggers more engaging, actions easier, and rewards more exciting, so habits are more likely to form.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Hooked: Building Habit-Forming Products](https://www.nirandfar.com/2013/02/new-video-hooked-the-psychology-of-how-products-engage-us.html) - Nir & Far
+* 📃 [Hooked: How To Make Habit-forming Products, And When To stop Flapping](https://www.forbes.com/sites/anthonykosner/2014/02/17/hooked-how-to-make-habit-forming-products-and-when-to-stop-flapping/#3b12f364f210) - Forbes
+* 📘 [Hooked: How to Build Habit-Forming Products](https://www.amazon.co.uk/dp/0241184835) - Nir Eyal
+* 📃 ['Hooked', by Nir Eyal](https://www.ft.com/content/59c38ec6-9b16-11e4-b651-00144feabdc0) - The Financial Tmes

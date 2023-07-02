@@ -7,29 +7,26 @@ title: Job Stories
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**Defining design problems based on user motivation and situation can facilitate team discussion about finding the best solution**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Writing job stories helps the team to discuss potential design solutions while building a product. Each job story explores a user's situation, motivations and goals, alongside the expected outcome of using a product. This becomes a specific design issue to solve.
 
-Examples of the 80/20 rule include:
+The structure is as follows:
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+"When _____, I want to _____, so I can _____"
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+For example:
+
+"When I find an interesting article but I don't have time to read it (situation), I want to save the link (motivation) so I can read it when I have some free time (expected outcome)."
+
+The challenge is described as a need that a user might have in a specific context / situation, then what outcome they expect. But, it doesn't indicate the specific implementation needed. In the example above, it doesn't specify the solution should be a mobile app, browser plugin or bookmark. This means the design issue is left open for discussion, so the team can find the best solution(s) without any initial restrictions. Refusing to specify a user type is another advantage of job stories. This helps avoid assumptions based on personas. Instead, the design issue is focused on the concrete causality of the user's need.
+
+Job stories are often presented as an alternative to user stories. But the two tools can be used together. Writing job stories can be used to define goals. Then, user stories help describe the features that will address each goal.
+
+Job Stories were first mentioned by Paul Adams on the Intercom blog.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [5 Tips for Writing a Job Story](https://jtbd.info/5-tips-for-writing-a-job-story-7c9092911fc9#.95d2oqpmq) - Alan Klement
+* 📃 [Designing Features using Job Stories](https://blog.intercom.com/using-job-stories-design-features-ui-ux/) - Alan Klement
+* 📃 [The Dribbblisation of Design](https://blog.intercom.com/the-dribbblisation-of-design/) - Paul Adams

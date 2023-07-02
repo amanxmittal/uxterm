@@ -7,29 +7,26 @@ title: Law of Triviality
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**This principle refers to situations where trivial issues are given too much weight over more substantial ones**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+This principle states that the amount of discussion around an issue is often inversely proportional to its complexity.
 
-Examples of the 80/20 rule include:
+C. N. Parkinson was the first person to distill this principle. It's best explained by using the example of fictional committees who preferred spending more time discussing the refreshments or color of the bike shed, than considering the build of a nuclear reactor. This phenomenon is also known as the 'bike-shed effect' or 'bike- shedding' after the metaphor became popular in the 90s.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+There are several principle happens:
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+* People can find it easier to focus on smaller problems than what's most significant. The consequences Of wrong decisions for trivial issues would have a smaller impact than bigger, complex problems.
+* Trivial issues are likely to engage more people in discussion. Everyone can relate to something they see and experience every day, so more people are likely to feel knowledgeable enough to share opinions. Naturally, this can end up creating very long debates.
+* A problem can be so simple that it puts extra stress on people. There are no logical criteria that can help make every decision. As they often come down to subjective elements, this can make people feel less confident. As a consequence, people spend more time considering than necessary, feeling overwhelmed by the amount of information to process.
+
+This principle is useful to consider so the most important issues and ideas are prioritised, either during group discussions or considering issues alone. Suggestions for how to avoid this situation include:
+
+* Asking how significant the task is, and how much impact it will have on the bigger picture.
+* If a decision does not have a big impact in the long term, it may be necessary to opt for one of the options and stop worrying about the others.
+* Sometimes there is no need to involve too many people in a discussion. Also, it's good practice to ask for others' opinions only when you are ready for the feedback.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [A designer's guide to Parkinson's Law of Triviality](https://library.gv.com/a-designers-guide-to-parkinson-s-law-of-triviality-86484cb79526#.xu81h0da7) - Daniel Hurka
+* 📃 [Law of Triviality](https://en.wikipedia.org/wiki/Law_of_triviality) - Wikipedia
+* 📃 [The Bike Shed Effect](https://personalexcellence.co/blog/bike-shed-effect/) - Celestine Chua

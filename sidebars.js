@@ -115,7 +115,8 @@ module.exports = {
 			collapsible: true,
 			collapsed: false,
 			items: [
-				'i/information-architecture'
+				'i/information-architecture',
+				'i/iterative-design'
 			],
 		},
 		{

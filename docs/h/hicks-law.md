@@ -7,29 +7,23 @@ title: Hick's Law
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**The time taken to make a decision increases as the number of options Increases**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Hick's Law is also known as the 'Hick-Hyman Law'. In situations where a decision is made between multiple equal options, the time taken is related to the number of options available. A decision between few options will take less time than a decision between many options.
 
-Examples of the 80/20 rule include:
+In interface design, this principle is often quoted to argue for the elimination of distractions and a reduction in the number of options presented to the user. It is especially relevant for tasks where time is an issue.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+In interface design, this principle is often quoted to argue for the elimination of distractions and a reduction in the number of options presented to the user. It is especially relevant for tasks where time is an issue.
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Hick's Law does **not** apply when:
+
+* Options are spread between layers in a complex hierarchy
+* Options are presented on unequal terms
+* The user is highly familiar with the options available
+* Significant reading is required to understand each option
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Redefining Hicks Law](https://www.smashingmagazine.com/2012/02/redefining-hicks-law/) - Smashing Magazine
+* 📃 [Hick's Law](https://en.wikipedia.org/wiki/Hick's_law) - Wikipedia
+* 📃 [The Hick-Hyman Law: An Argument Against Complexity in User Interface Design](https://www.interaction-design.org/literature/article/the-hick-hyman-law-an-argument-against-complexity-in-user-interface-design) - Interaction Design Foundation
