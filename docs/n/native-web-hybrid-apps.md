@@ -7,29 +7,20 @@ title: Native, Web and Hybrid Apps
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**Different approaches used to deliver mobile apps**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+When creating an app a number of different approaches can be used:
 
-Examples of the 80/20 rule include:
+1. Native Apps Are installed through an app store and accessed via icons on the home screen. They are developed for a specific platform only (e.g. iOS or Android) and can take advantage of most of the device features (e.g. camera, contacts), incorporate gestures, use the device's notification system and work offline.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+2. Web Apps Are mobile- optimised webpages that look and sometimes behave like an app. They are accessed via a browser like any other web page. Web Apps are built in cross-platform web languages that enable some native-like functionality to be obtained in the browser, and work across all mobile platforms.
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+3. Hybrid apps Are web apps wrapped in a native apps to allow access to all device features and produce a better user experience. Like native apps, they are installed from an app store. 
+
+Each type of app has pros and cons, so the choice depends on your objectives and audience needs.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Can We Please Stop Fighting The Native vs. Web App Wars?](http://readwrite.com/2015/02/27/native-vs-web-apps-ceasefire/) - Readwrite
+* 📃 [Hybrid Mobile Apps: Providing A Native Experience With Web Technologies](https://www.smashingmagazine.com/2014/10/providing-a-native-experience-with-web-technologies/) - Smashing Magazine
+* 📃 [Mobile: Native Apps. Web Apps, and Hybrid Apps](https://www.nngroup.com/articles/mobile-native-apps/) - Nielsen Norman Group

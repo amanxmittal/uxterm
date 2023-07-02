@@ -7,29 +7,17 @@ title: Multivariate Testing
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**Comparing complex multi-variable systems, especially for understanding market perceptions**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+A process for comparing the effects of multiple components of a website in a live environment. This is essentially many comparison tests performed on one page at the same time.
 
-Examples of the 80/20 rule include:
+A dynamic website can be used to serve up different versions Of a page in equal proportions to visitors. The key is then to gather the statistics on how all the different elements performed and what each visitor went on to do after seeing the elements under test. With many variants this can be a complex statistical challenge.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Numerous factors impact customer behaviour; this process can be used to test alternative text, form layouts, images, background colors, and so on. Not all elements have the same impact, so by comparing results from different tests, it is possible to identify the combination of elements that consistently produces the most desirable effect. Carrying out multivariate testing on sites with low traffic can be time consuming as it then takes a considerable time to expose a significant number of people to each variation.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Multivariate Testing 101: A Scientific Method Of Optimizing Design](https://www.smashingmagazine.com/2011/04/multivariate-testing-101-a-scientific-method-of-optimizing-design/) - Smashing Magazine
+* 📃 [Multivariate testing](https://en.wikipedia.org/wiki/Multivariate_testing) - Wikipedia
+* 📃 [Usability and AB/Multivariate testing - a special relationship](https://econsultancy.com/blog/7928-usability-and-ab-multivariate-testing-a-special-relationship) - eConsultancy
+* 📃 [What is Multivariate Testing?](https://www.optimizely.com/optimization-glossary/multivariate-testing/) - Optimizely

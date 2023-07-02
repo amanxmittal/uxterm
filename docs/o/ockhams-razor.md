@@ -7,29 +7,14 @@ title: Ockham's Razor
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**When choosing between two equivalent options, the simplest should be selected**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Ockham's Razor is a principle which argues that simplicity should always be preferred to complexity. When choosing between two designs with the same function. the option which is simplest should be selected. It may also be described as choosing the option which makes fewer assumptions.
 
-Examples of the 80/20 rule include:
-
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Like the 80/20 rule and signal-to- noise ratio, Ockham's Razor is often cited to argue for the removal of elements which are not immediately useful or relevant.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Occam's Razor: A Great Principle for Designers](https://www.webdesignerdepot.com/2010/07/occams-razor-a-great-principle-for-designers/) - Webdesigner Depot
+* 📃 [Ockham's Razor: Simply Sharp Design](https://www.codeproject.com/Articles/448764/Ockhams-Razor-Simply-Sharp-Design) - Code Project
+* 📘 [Visual explanations: Images and Quantities, Evidence and Narrative](https://www.amazon.co.uk/Visual-Explanations-Quantities-Evidence-Narrative/dp/0961392126) - Edward R. Tufte

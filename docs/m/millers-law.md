@@ -7,29 +7,16 @@ title: Miller's Law
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**The observation that the average human can hold around seven objects In working memory**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Miller's Law (also known as The Magical Number Seven) is derived from a paper by cognitive psychologist George Miller, published in 1956. It states a human can have only 7 (plus or minus 2) pieces of information in their short-term memory at a single moment.
 
-Examples of the 80/20 rule include:
+Miller's Law has been used to justify limiting the number of items in an interface or display, for example the number of links in a menu. However there is some disagreement around that application of the law. The law only applies when the options are held in memory rather than, for example, visible on screen. The exact number of items which can be held in working memory is also disputed.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Most agree that Miller's Law encourages the "chunking" of information into smaller, more logical groups, making it easier for users to remember, navigate, and choose between them.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Miller's Law](https://en.wikipedia.org/wiki/Miller%27s_law) - Wikipedia
+* 📃 [Myth #23: Choices should always be limited to 7+/-2](http://uxmyths.com/post/931925744/myth-23-choices-should-always-be-limited-to-seven) - UX Myths
+* 📃 [Reducing reliance on superstition](http://www.humanfactors.com/newsletters/reducing_reliance_on_superstition.asp) - Human Factors InternationaL

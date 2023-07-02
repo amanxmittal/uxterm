@@ -7,29 +7,24 @@ title: Minimum Viable Product (MVP)
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**The most basic version of a product that early adopters will use or buy**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+The term Minimum Viable Product (MVP) was popularised for web applications by Eric Ries, the author of *The Lean Startup*. In the MVP approach, the product is brought to market as soon as possible, then features are added or improved based on the feedback of real users instead of assumptions.
 
-Examples of the 80/20 rule include:
+An MVP can be launched sooner than a 'complete' product as non- essential features are postponed, reducing development time. This allows developers to discover if there is a real demand for the product, without spending a significant amount of time and money.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+It includes only the minimum set Of features that will satisfy the goal of the product, and the needs of early adopters. Choosing which features to include is a judgement call. but successful MVPs share some traits:
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+* **Valuable** — users understand how the product will benefit them, and they want to use it.
+* **Usable** - the product can be used to fulfil its purpose.
+* **Feasible** - the product can be created and delivered when it's needed, with only the resources available to the developer
+* **Encourages feedback** - users are encouraged to provide feedback that can guide future development.
+
+Many of the world's most popular web applications and websites were developed in this iterative way. For example, Twitter was launched with basic functionality, with advanced features like after observing user behaviour and identifying the need for it.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Minimum Viable Product (MVP)](https://amanmittal.me) - Technopedia
+* 📘 [The Lean Startup; How Constant Innovation Creates Radically Successful Businesses](https://amanmittal.me) - Eric Ries
+* 📃 [The Ultimate Guide to Minimum Viable Products](https://amanmittal.me) - Scale My Business
+* 📃 [What is the minimum viable product](https://amanmittal.me) - Venture Hacks
