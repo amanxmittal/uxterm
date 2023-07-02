@@ -7,29 +7,16 @@ title: Sitemap
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**A hierarchical diagram which defines the number, nature, and structure of pages (or views) In a website or application**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Typically created during the early phases of a project, this document defines the pages or views which make up a website or application, how they are related, and how content and functionality will be distributed between them. This will then be used as the basis for further development, for example wireframing.
 
-Examples of the 80/20 rule include:
+For websites or applications which are rich in information (and so probably comprised of many pages) it is important to ensure the structure is compatible with the mental models of their users.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Note that this planning document is separate and distinct from the sitemap web page used to users navigate a website, or the XML document intended to allow search engines to index it. 
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Is the site map losing its client facing steam?](http://uxmag.com/articles/is-the-sitemap-losing-its-client-facing-steam) - UX Magazine
+* 📃 [Site map](https://en.wikipedia.org/wiki/Site_map) - Wikipedia
+* 📃 [Sitemaps - the beginner's guide](http://theuxreview.co.uk/sitemaps-the-beginners-guide/) - UX Review

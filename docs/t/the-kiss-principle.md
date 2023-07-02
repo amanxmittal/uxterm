@@ -7,29 +7,16 @@ title: The KISS Principle
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**This principle states that simplicity should be a core aspect of any design, with complexity kept to a minimum**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+KISS is shorthand for €Keep it simple. stupid'. a design principle that prioritizes simplicity over complexity in all aspects of a design. It originates from the U.S. Navy in the 1960s, and is most associated with the aircraft engineer Kelly Johnson. Johnson aimed to encourage simplicity in aircraft design, to the point that the average mechanic could repair a jet with minimal tools even under combat conditions.
 
-Examples of the 80/20 rule include:
+Since Johnson first introduced his principle, KISS has been adopted across the engineering world, including software engineering and UX design. That's because the easier something is to understand and use, the greater chance it will catch on and users will engage with it. After all, if users can't understand a product it is unlikely to increase its market share, but one that is easier to understand will.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Importantly, the design must not be made so simple the user cannot complete their objective. If a complex design will enhance the user's experience it should be used, but complexity should be eradicated if it's presence is unnecessary.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [KISS ('Keep It Simple, Stupid') - A Design Principle](https://www.interaction-design.org/literature/article/kiss-keep-it-simple-stupid-a-design-principle) - The Interaction Design Foundation
+* 📃 [KISS Principle](https://en.wikipedia.org/wiki/KISS_principle) - Wikipedia
+* 📃 [Keeping It Simple Doesn't MeanYou're Stupid](https://www.forbes.com/sites/amyanderson/2014/02/27/keeping-it-simple-doesnt-mean-youre-stupid) - Forbes

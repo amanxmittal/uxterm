@@ -7,29 +7,33 @@ title: Social Proof
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**A persuasive phenomenon where a person's decision is based upon the the observations ot a group** 
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+This persuasive phenomenon describes how people can make decisions based on others' observations, Ultimately, this may mean they arrive at the same conclusion. The behaviour is fuelled by people's desire to act 'correctly' in any given situation. When unsure of the decision they should make, people often follow others who they perceive to have greater knowledge.
 
-Examples of the 80/20 rule include:
+In essence, social proof can help sway people's decisions. But this mentality is more likely to occur for recognised peers. For example, their boss may be less persuasive than a colleague.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+Social proof is one of the six principles of persuasion by Robert Cialdini. In a noted 1935 experiment by Muzafer Sherif, participants were asked to describe how they perceived the movement of stationary lights in a darkened room - both on their own and with a group. Sherif discovered participants consistently agreed with others in a group situation, relying on each other's outspoken observations for guidance.
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+As a persuasive marketing tactic, social proof has been employed in the physical world for a long time e.g. organisers creating seemingly unnecessary queues into shops/nightclubs. Especially since the rise of social media, it has also been used in the digital space.
+
+There are five types of social proof (with examples):
+
+* Expert - recommendations from a credible industry leader
+* Celebrity - endorsements from a well known public figure
+* User - testimonials/reviews/star ratings from current users
+* Wisdom of the crowds - numbers of users/social media followers of product/service
+* Wisdom of friends - a friend through social media mentions product/service.
+
+Other examples include:
+
+* Badges/Certifications
+* Media logos
+* Social media sharing
+* Featured clients of the product/service
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Social Proof in the user Experience](https://www.nngroup.com/articles/social-proof-ux/) - Jennirer Cardellc
+* 📃 [Social Proof: Your Key to More Magnetic Marketing](https://blog.kissmetrics.com/social-proof/) - Barry Feldman
+* 📃 [The Science of Social Proof: 5 Types and the Psychology Behind Why They Work](https://blog.bufferapp.com/social-proof) - Ed Hallen

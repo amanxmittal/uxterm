@@ -7,29 +7,19 @@ title: Think-Aloud Protocol
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**A method of gathering verbal data during usability testing**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+This technique asks participants to verbally describe everything they do, think, see, and experience while they take part in a usability test. 
 
-Examples of the 80/20 rule include:
+Researchers can observe first-hand how tasks are completed, rather than just seeing the end result. It is important that observers simply take objective notes of everything users say and do, without interpreting or influencing them in any way. Using audio and video recording allows researchers to gain understanding of how and why participants reacted in certain circumstances.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+There are two main approaches: capturing what is recorded during the task, and what is recorded after it.
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+A slightly different method is the Talk-Aloud Protocol. Users only describe their actions, and do not offer an explanation. This can be more objective, as the users do not interpret their actions for the researcher, or justify their choices.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📘 [Smashing UX Design: Foundations for Designing Online user Experiences](https://www.amazon.co.uk/Smashing-Design-Foundations-Designing-Experiences/dp/0470666854) - Jesmond Allen, James Chudley
+* 📃 [Think aloud protocol](https://en.wikipedia.org/wiki/Think_aloud_protocol) - Wikipedia
+* 📃 [Thinking Aloud: The #1 Usability Tool](https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/) - Nielsen Norman Group
+* 📃 [Verbal Protocols](http://www.designcritique.net/podcasts/wordcast-verbal-protocols-thinking-aloud/) - Design Critique

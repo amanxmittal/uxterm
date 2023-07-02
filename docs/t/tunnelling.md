@@ -7,29 +7,18 @@ title: Tunnelling
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**Guiding users through a sequence of activities, step by step, to encourage certain behaviours**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+B.J. Fogg coined the term tunnelling as one of his seven tools of persuasion. Tunnelling, also known as Guided Persuasion, is when you lead users through a Of pre—defined steps.
 
-Examples of the 80/20 rule include:
+All navigation, content and functionality that could distract the user are eliminated, decreasing the user motivation required to complete a task and increasing the likelihood of task completion. For example, software installation wizards typically apply tunnelling techniques.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+Tunnelling makes it easier for users to go through a process as the interface directs them. It controls their experience, in order to encourage specific behaviours, without taking away their sense of control.
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+In addition to helping users to complete tasks, tunnelling can also persuade users by exposing them to things they otherwise may not see. For instance, throughout software installations users are captive audiences, so may be presented with promotions for supplementary products.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Designing for Behavioral Change in Health](http://www.uxbooth.com/articles/designing-for-behavioral-change-in-health/) - UX Booth
+* 📘 [Persuasive Technology: Using Computers to Change What We Think and Do](https://www.amazon.co.uk/Persuasive-Technology-Computers-Interactive-Technologies/dp/1558606432) - B.J. Fogg
+* 📃 [Tunneling](https://amanmittal.me) - http://ui-patterns.com/patterns/Tunnelling

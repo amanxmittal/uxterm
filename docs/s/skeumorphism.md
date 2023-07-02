@@ -7,29 +7,19 @@ title: Skeumorphism
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**The use of elements from an older design in a place where they are no longer necessary**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Skeuomorphic design makes use of elements from a previous form of an object, when those elements are no longer needed. Examples can be found in designs of all kinds. In digital design the term typically refers to a resemblance to real world objects.
 
-Examples of the 80/20 rule include:
+On-screen examples include tabs that behave like tabbed folders, a button which appears to have depth, or a page-turning movement in an eBook. Skeuomorphs can also be audible, like the sound of a shutter on a digital camera which has no shutter.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+Critics of skeuomorphism say it creates forced metaphors, relics on nostalgic elements (e.g. address books) that are foreign to younger users, and can hinder creation of more useful designs that aren't constrained by the physical world or previous designs.
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Advocates say the approach can help users understand new technologies by using shared cultural understanding to quickly convey the purpose of an object.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Docs Skeuomorphic Design Matter?](http://uxmag.com/articles/does-skeuomorphic-design-matter) - UX Magazine
+* 📃 [Skeuomorphism Will Never Go Away. And That's a Good Thing](http://gizmodo.com/skeuomorphism-will-never-go-away-and-thats-a-good-thin-1642089313) - Gizmodo
+* 📃 [What does Skeuomorphism mean?](https://www.techopedia.com/definition/28955/skeuomorphism) - Technopedia
+* 📃 [What is skeuomorphism?](http://www.bbc.co.uk/news/magazine-22840833) - BBC News Magazine

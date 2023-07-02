@@ -7,29 +7,16 @@ title: Searchability
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**If an item has high searchability, users can easily locate information from an unknown location, either Internally or externally**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Searchability refers to how easy it is for a user to pinpoint information in an unknown location. Users input the information they do know, such as a specific word or phrase, in an attempt to locate more information about a topic. A highly searchable item will then rank highly among the results.
 
-Examples of the 80/20 rule include:
+For instance, if you type a phrase into Google, it will supply you with all results pertaining to that phrase. The lower down the results list you go. the lower the searchability of the items shown.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+Searchable websites feature strong accessibility and well-written content that is user focused in all respects. They are made searchable through meta tags, strategic keyword placement, and links to related and relevant content.
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+However, a searchable site isn't only searchable on search engines. Users may also look for content internally, so linking content together via a logical information architecture and using strategic keywords is of the utmost importance.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Findability vs Searchability](https://curtisdigital.com/findability-vs-searchability-whats-the-difference-and-why-should-you-care/) - Curtis Digital
