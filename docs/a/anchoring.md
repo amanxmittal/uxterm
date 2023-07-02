@@ -7,29 +7,19 @@ title: Anchoring
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**A cognitive bias describing the tendency of users to rely too heavily on the first piece ot information offered**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Anchoring (or focalism) bias is the common human tendency to rely too heavily on the first piece of information available (the 'anchor') when making decisions, Once set, an anchor acts as a reference point against which all subsequent information is assessed.
 
-Examples of the 80/20 rule include:
+The design implications of anchoring are huge as it significantly impacts user decisions.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+For example:
+* Pricing - In sales, the initial price (or RRP) is the anchor, making the sales price look like a good bargain.
+* Item Order - If you display donation amounts on a charity website with higher figures first (the anchor) you're likely to get higher donations than by listing lower amounts first.
+* Defaults - If you set a price package on a website as the default it often becomes the anchor.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Anchoring](https://en.wikipedia.org/wiki/Anchoring) - Wikipedia
+* 📃 [Anchoring](http://ui-patterns.com/patterns/Anchoring) - UI Patters
+* 📃 [How Anchoring, Ordering. Framing, and Loss Aversion Affect Decision Making](https://www.uxmatters.com/mt/archives/2011/03/how-anchoring-ordering-framing-and-loss-aversion-affect-decision-making.php#sthash.nyZucSfA.dpuf) - UX Matters

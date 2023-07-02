@@ -7,29 +7,14 @@ title: User Centred Design
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**An approach to design where user needs and desires are primary concerns**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+While user experience (UX) is an overarching title, User-Centred Design (UCD) is a design process and methodology where the user and the user's experience are pivotal to the whole project. The core elements of UCD are visibility, accessibility, legibility, and language when designing a system, app or website.
 
-Examples of the 80/20 rule include:
-
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+UCD was originally conceived by Donald Norman in his book Design of Everyday Things in 1986. He suggested that design should be based on the needs of the user, and slightly de-emphasized aesthetic concerns. When UCD is used in the most pure form, project stakeholders and target users are consulted via testing prototypes to identify issues early.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📘 [Design Of Everyday Things](http://www.jnd.org/books/design-of-everyday-things-revised.html) - Donald Norman
+* 📃 [Eight Golden Rules of Interface Design](http://faculty.washington.edu/jtenenbg/courses/360/f04/sessions/schneidermanGoldenRules.html) - Ben Shneiderman
+* 📃 [User-centered Design](https://en.wikipedia.org/wiki/User-centered_design) - Wikipedia

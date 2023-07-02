@@ -7,29 +7,28 @@ title: User Journey
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**An outline of the overall scenario and subsequent steps a user will take while Interacting with a product or service**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Designers create user journeys to explore how users currently (or potentially) interact with a product, service or website. Informing UX strategy and design, they are usually made during the requirements gathering phase of a project.
 
-Examples of the 80/20 rule include:
+User journeys are beneficial for a few reasons. Firstly, they help communicate the project's vision - showing stakeholders what the work could achieve for users. Secondly, analyzing current user behaviour and needs helps designers map out required features and functions easily. Thirdly, they help designers formulate the information architecture and interface design required to deliver the steps users typically take.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+A user journey should be produced for each persona. Each one will tell a unique story from that user's perspective and help designers meet their overall needs.
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+The layout, complexity and content of user journeys will depend on the project and product. But common elements include:
+
+* Persona characteristics
+* Journey phases
+* Triggers
+* Channels
+* Context of use
+* User touch points
+* User activity & interactions
+* User thoughts, feelings and emotions
+* System actions
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Experience Maps. User Journeys and More](http://www.ux-lady.com/experience-maps-user-journey-and-more-exp-map-layout/) - UX Lady
+* 📃 [How to Create a Customer Journey Map](https://uxmastery.com/how-to-create-a-customer-journey-map/) - UX Mastery
+* 📃 [User Journeys - The Beginners Guide](http://theuxreview.co.uk/user-journeys-beginners-guide/) - The UX Review

@@ -1,6 +1,6 @@
 ---
-id: colour-theory
-title: Colour Theory
+id: cognitive-bias
+title: Cognitive Bias
 ---
 
 [![docs-source](https://img.shields.io/badge/SRC-UX%20Companion-blue)](https://play.google.com/store/apps/details?id=com.cyberduck.uxcompanion)

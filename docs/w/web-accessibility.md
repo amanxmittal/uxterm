@@ -7,29 +7,18 @@ title: Web Accessibility
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**The degree to which websites and web applications are available and usable by people, regardless of ability**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Web accessibility is a term often used to describe the right of access to web services and products for the elderly and people with disabilities. In this context, accessibility depends on how a person's disability or age affects the way they perceive content on a page and how they navigate between pages. A wide range and scale of disabilities can affect accessibility, from visual, hearing, and physical impairments, to motor and cognitive impairments.
 
-Examples of the 80/20 rule include:
+Though providing an inclusive and open experience for disabled users is an important facet of web accessibility, it is a far more wide- reaching topic. Creating an accessible website or application can benefit any user A good example of this is a responsive design that makes a website's content and functionality more accessible for people, regardless Of what device they are using to access the web.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Web accessibility is not to be confused with web usability, which is the extent to which a website can be used by people to complete specific goals with ease and efficiency. That said, implementing accessibility best practices will often help improve the usability of a website or application. A good example of this is when Tesco launched an 'accessible' version of their website in 2002. A huge success, by 2005 it was generating revenue in excess of €13 million per annum. While in large part this was due to blind customers now having access to Tesco's online store, a study found that many non- disabled customers switched to the Tesco Access site, reporting it easier and faster to use.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📘 [Accessibility Handbook](http://shop.oreilly.com/product/0636920024514.do) - Katy Cunningham
+* 📃 [My Web My Ways](http://www.bbc.co.uk/accessibility/best_practice/standards.shtml) - BBC
+* 📃 [Web accessibility](https://en.wikipedia.org/wiki/Web_accessibility) - Wikipedia
+* 📃 [Web accessibility best practices](https://www.webaccessibility.com/best_practices.php) - Web accessibility
+* 📃 [Why bother with accessibility?](https://24ways.org/2013/why-bother-with-accessibility) - 24 Ways

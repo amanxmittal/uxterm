@@ -7,29 +7,17 @@ title: Usability
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**How easy — or hard — it is to use a site**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+This judges whether a design helps users achieve specific goals in a particular context with effectiveness, efficiency, and satisfaction. It is often associated with the function of a product as well as being a characteristic of the definition of 'usefulness' alongside utility, and is composed of five main elements.
 
-Examples of the 80/20 rule include:
+'Learnability' determines how easily users can navigate and operate a product, while 'efficiency' comes from how quickly they can perform those tasks once they have learned the design, The 'memorability' comes from the ease of returning to the design after not using it for a while, and there is the 'satisfaction' that comes from how pleasant the design is to use, It is also important to monitor how many 'errors' users make, taking into account the impact of these and how easy it is to recover.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+There are two main ISO standards for usability: ISO/TR 16982:2002 on the ergonomics of human- system interaction - usability methods supporting human- centered design; and ISO 9241 on thc Ergonomics of Human System Interaction.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📘 [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.co.uk/Dont-Make-Think-Revisited-Usability-ebook/dp/B00HJUBRPG) - Steve Krug
+* 📃 [The History Of Usability: From Simplicity To Complexity](https://www.smashingmagazine.com/2012/05/the-history-of-usability-from-simplicity-to-complexity/) - Smashing magazine
+* 📃 [Usability](https://en.wikipedia.org/wiki/Usability) - Wikipedia
+* 📃 [Usability vs User Experience](http://www.neospot.se/usability-vs-user-experience/) - NeoSpot

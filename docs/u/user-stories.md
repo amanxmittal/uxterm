@@ -7,29 +7,37 @@ title: User Stories
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**In an Agile environment, this tool is used to describe a feature from the end user's perspective, In simple language**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Writing user stories helps to gather all the requirements of a product's audience. Then, project managers can prioritize what order they should be solved, involving the production team and stakeholders. A user story contains a role or user type (the 'who'), a goal or desire (the 'what) and finally a benefit (the 'why'). They must be brief and written in plain language, so non- technical people can easily understand them. A user story is
+normally structured as follows:
 
-Examples of the 80/20 rule include:
+"As a _____ I want to _____ so that _____"
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+For example:
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+"As a registered user, I want to select my topics of interest, so that my dashboard is personalized."
+
+Sometimes stories also include acceptance criteria. These are conditions the product must have for the story to be considered complete. So, acceptance criteria are especially useful for testing.
+
+User stories should be very specific. If they are more generic and describe a macro functionality, they are called epics. Epics should be recorded, then broken down into more granular user stories. These would work together to 'solve' the over-arching epic. User stories are told from the user's perspective. So, designers should write them after research, as they would have built sufficient knowledge about the audience. Some teams use personas and their goals to define what stories to write.
+
+Some of the benefits of using user stories are:
+
+* They are simple to understand
+* They help developers to estimate effort to build
+* They help communication between parties
+* They give an overview of the project requirements
+
+Some of the cons are:
+
+* If created just by using personas, they could be based on assumptions. Job stories are an alternative tool
+* They do not address non- functional requirements
+* They can be too vague
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [10 tips for writing good user stories](http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/) - Roman Pichler
+* 📃 [User Stories](https://www.agilealliance.org/glossary/user-stories/) - Agile Alliance
+* 📘 [User Stories applied](https://www.amazon.com/User-Stories-Applied-Software-Development/dp/0321205685) - Mike Cohn
+* 📃 [User stories: An agile introduction](http://www.agilemodeling.com/artifacts/userStory.htm) - Agile Modeling

@@ -7,29 +7,18 @@ title: User-Experience
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**A blanket term for all factors which influence the user's perception of a product or service**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+User experience is often abbreviated to UX, and is also known as 'experience design'.
 
-Examples of the 80/20 rule include:
+When interacting with any system, there are many qualities which affect the emotional response of responsiveness, familiarity, and usability are just some of the elements which contribute to the experience, and the whole can be loosely described as the 'feel' of 'look and feel'. With such varied factors to consider, evaluation Of user experience is examination of the work of many disciplines: graphic design, user interface design, copywriting, information architecture and so on.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+User experience design as a profession is thought of by some as a directorial role. where professionals in many disciplines are led in the creation of a product. At the very least it can be said that user experience design is an inter- disciplinary role which calls for knowledge and practical ability in multiple areas, such as interaction design, psychology and research.
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+It is important to note that user experience is not the same as usability or user interface design. The former is a measure of the ease-of-use of a system. The latter is one factor of many which comprise the total user experience. 
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [The Disciplines of User Experience Design](http://www.kickerstudio.com/2008/12/the-disciplines-of-user-experience/) - Dan Saffer
+* 📘 [The Elements of User Experience: User-Centred Design for the Web](http://www.jjg.net/elements/) - Jesse James Garrett
+* 📃 [User Experience](https://en.wikipedia.org/wiki/User_experience) - Wikipedia

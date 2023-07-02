@@ -7,29 +7,20 @@ title: Atomic Design
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**A methodology for designing Interfaces by designing elements and their combinations rather than pages**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Introduced by Brad Frost in 2013, Atomic Design is an approach to designing interfaces by creating systems Of components instead Of pages. It involves designing small, standalone, reusable elements and combining them to create the whole. This enables rapid production of scalable and consistent interfaces that are easier to maintain.
 
-Examples of the 80/20 rule include:
+In Atomic Design, there are five components of an interface:
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+* Atoms: the smallest, most basic building blocks, that can't be broken down (e.g. buttons, input fields, checkboxes, links). They can also be abstract (e.g. colors, fonts).
+* Molecules: bonded atoms that function as a unit (e.g. an input field and button can combine to create a search box). Molecules can be simple or complex, built for reuse or one-off use.
+* Organisms: groups of similar or different molecules (and possibly atoms) joined to form a distinct section of an interface (e.g. a page header can be formed from a logo, navigation and search box).
+* Templates: organisms combined together to form pages. They are client facing and begin to demonstrate the page layout and flow.
+* Pages. specific instances of templates. They test how the templates work with real content, enabling designers to go back to modify the molecules, organisms, and templates if required.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [An introduction into Atomic Design, a super-clean way to style web applications](https://www.dev-metal.com/introduction-atomic-design) - Dev Metal
+* 📃 [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) - Brad Frost
+* 📃 [The "Other" Interface: Atomic Design With Sass](https://www.smashingmagazine.com/2013/08/other-interface-atomic-design-sass/) - Robin Rendle

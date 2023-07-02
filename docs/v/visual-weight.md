@@ -7,29 +7,18 @@ title: Visual Weight
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**The ability of a region or element in a composition to draw attention, often through contrast or color**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Elements of a design or image have different degrees Of 'heaviness' in relation to each other. By ensuring that key elements are 'heaviest', the viewer's attention can be drawn to what is most important.
 
-Examples of the 80/20 rule include:
+The visual weight can be obvious, such as when a large object looks heavier because it takes up more space than smaller ones. However, things get more complex when different colors and color combinations are introduced. The contrast of the foreground and background, the changes in density and complexity, and varying levels of saturation also play their part in the relative 'heaviness' of each element.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+By carefully balancing all of these options, a visual hierarchy, symmetry, balance, and harmony can be developed.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [19 Factors That Impact Compositional Balance](http://vanseodesign.com/web-design/visual-balance/) - Vanseo Design
+* 📃 [How visual weight helps your photos](http://www.digital-photo-secrets.com/tip/2067/what-is-visual-weight-and-how-visual-weight-helps-your-photos/) - Digital Photo Secrets
+* 📘 [Information Dashboard Design: Displaying Data for At-a-Glance Monitoring](https://www.amazon.co.uk/Information-Dashboard-Design-At---Glance/dp/1938377001) - Stephen Few
+* 📃 [Optical Adjustment](https://medium.com/@lukejones/optical-adjustment-b55492a1165c) - Luke Jones
+* 📃 [Working with Visual Weight in Your Designs](https://www.webpagefx.com/blog/web-design/visual-weight-designs/) - Six Revisions
