@@ -7,29 +7,16 @@ title: Card Sorting
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**A low-tech collaborative exercise used to categorise objects, plan workflows, or define system structure**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+This technique is often used to generate or evaluate website navigation, categorisation structures (i.e. taxonomies) and user journeys. It can be utilised on projects of any scale, from high-level structure to page- level prioritization of content.
 
-Examples of the 80/20 rule include:
+First, content or functionality is broken down into the smallest appropriate units and listed on Post-lt notes or index cards. Related units are grouped together and these categories are given titles to build hierarchies. Categories and units are ordered to demonstrate routes through the system. Elements can easily be added, removed and rearranged until the optimal structure is found, at which point the result can be recorded with photography for later digitization or further work.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Due to its simplicity, a single facilitator can guide an inexperienced group with no knowledge of the technique. The inclusion of clients, users and domain experts allows everyone to contribute and builds a sense of shared effort and involvement.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Card Sorting](https://en.wikipedia.org/wiki/Card_sorting) - Wikipedia
+* 📃 [Card Sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html) - Usability.gov
+* 📃 [Card Sorting - A Definitive Guide](http://boxesandarrows.com/card-sorting-a-definitive-guide/) - Boxes & Arrows

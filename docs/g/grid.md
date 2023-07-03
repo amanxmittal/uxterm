@@ -7,29 +7,20 @@ title: Grid
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**A two-dimensional structure of guide lines used to structure web pages**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Grids have long been used in visual design to add structure and consistency to a page. Objects on the page are sized and placed to fit a regular, two-dimensional system of lines, ensuring regularity and alignment. The guidelines themselves are invisible in the final product.
 
-Examples of the 80/20 rule include:
+For the web, grid systems can broadly be categorised as 'fixed' or 'responsive'.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+Fixed grids have predetermined dimensions, often intended to suit the size of certain devices. For example, the popular 960 grid, named for its width of 960 pixels, is intended to fit neatly on computer monitors with a width of 1024 pixels. When viewed on a smaller device, the page must be panned or zoomed to be seen in its entirety.
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Responsive grids restructure the page to suit the size of the device used to view. In this way page content appears to be optimised for a range of screen sizes. Though flexible grids are not new, the rise of smartphone and tablet devices has fuelled the growth of responsive technology.
+
+Modern web grid systems are often packaged with code libraries (together known as 'frameworks') to simplify development of pages designed to fit the accompanying grid system.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Designing With Grid-Based Approach](https://amanmittal.me) - Smashing Magazine
+* 📃 [Fixed vs Fluid vs Elastic Layout: What's The Right One For You?](https://amanmittal.me) - Smashing Magazine
+* 📃 [Grid](https://amanmittal.me) - Wikipedia

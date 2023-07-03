@@ -7,29 +7,23 @@ title: Cognitive Bias
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**The Inherent thinking errors that people make when processing information**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Cognitive biases are flaws in judgement that shape how we perceive the world and how we behave. Some are so common you can use them to ensure your website achieves its goals.
 
-Examples of the 80/20 rule include:
+For example:
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+* **The bandwagon effect** is the tendency to do things because many other people do. It's why it's often recommended to state the number of customers you have or say how many people Liked your content.
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+* **Anchoring** is the tendency to over-rely on the first piece of information we receive when making decisions. You can define the anchor to your advantage (e.g. by saying a product 'was ₹100, now ₹80' you make ₹80 appear good value).
+
+* **Loss aversion** is the tendency to overvalue loses and undervalue gains. This can be used to prompt user action with scarcity (e.g. 'only 2 left in stock') and time-limited offers.
+
+* **The decoy effect** gives people a third product option so that they'll choose the higher priced of two other options. The preferred option goes from being the expensive option to the one that's best value.
+
+* **The endowment effect** is the tendency for people to demand much more to give up an object than they would be willing to pay to acquire it. It's the reason why free trials are often so effective.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Cognitive Bias](https://en.wikipedia.org/wiki/Cognitive_bias) - Wikipedia
+* 📃 [Neuro-marketing Web Design: 15 Ways to Connect With Visitors' Brains](https://www.orbitmedia.com/blog/neuromarketing-web-design/) - Web Designer Depot

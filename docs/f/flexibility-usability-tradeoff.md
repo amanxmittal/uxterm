@@ -7,29 +7,13 @@ title: Flexibility-Usability Tradeoff
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**As flexibility is increased, usability decreases**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Designers must compromise between the extremes of a completely flexible system and perfect usability. A completely flexible system, which could accommodate any task, would be infinitely complicated and so very difficult to use. A perfectly usable system, through removal of confusing or distracting elements and functions, would be incredibly simple, to the point where its usefulness would be very limited.
 
-Examples of the 80/20 rule include:
-
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+A good balance between flexibility and usability is dependent on the needs and expectations of the user. If the needs of the audience are clearly defined, specialised solutions that target those needs exactly will be more successful. If the needs of the audience are very broad or cannot be clearly defined, a flexible solution will be necessary.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Flexible Usability Testing: 10 Tips to Make your Sessions Adapt to Your Clients' Needs](https://www.nngroup.com/articles/flexible-usability-testing/) - Nielsen Norman Group
+* 📘 [Universal Principles of Design](https://www.amazon.co.uk/gp/product/1592535879) - Lidwell, Holden and Butler

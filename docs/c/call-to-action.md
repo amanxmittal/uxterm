@@ -7,29 +7,13 @@ title: Call to Action
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**An element that prompts a user to carry out a desired activity**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+An interface element that aims to encourage users to continue down the optimum path, as identified by the developer. For a website design, example actions would be submitting contact details or making a purchase.
 
-Examples of the 80/20 rule include:
-
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+The effectiveness of a call to action (CTA) is often measured by calculating the conversion rate, which at its simplest would be the total number of times the call was successful divided by the number of times the CTA was seen.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Calling to Action: 3 key principles](http://blog.usabilla.com/call-to-action-key-principles/) - Usabilla
+* 📃 [Good call to action buttons](http://www.uxbooth.com/articles/good-call-to-action-buttons/) - UX Booth

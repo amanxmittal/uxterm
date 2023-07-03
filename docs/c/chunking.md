@@ -7,29 +7,15 @@ title: Chunking
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**Combining units of Information Into fewer units, to ald browsing and learning**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+A 'chunk' is a piece of information, like a word or a set of numbers, held in the short- term memory. The capacity of this memory is limited, believed to be between three and six, so by structuring information to fit these limitations, users' recollection of that information can be improved. The act of combining similar pieces Of information into chunks is known as 'chunking'.
 
-Examples of the 80/20 rule include:
-
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Designers should consider chunking for tasks which are specifically related to memory, not for information that will be searched or scanned. In the latter case, reducing the number of groups information is sorted into can make it more difficult to find the information being searched for.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Chunking](https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/chunking) - Interaction Design Foundation
+* 📃 [How to Chunk Content into Scannable Pages](http://uxmovement.com/content/how-to-chunk-content-into-scannable-pages/) - UX Movement
+* 📃 [The Magical Number Seven, Plus or Minus Two](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two) - Wikipedia
+* 📘 [Universal Principles of Design](https://www.amazon.co.uk/gp/product/1592535879) - Lidwell, Holden and Butler

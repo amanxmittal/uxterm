@@ -7,29 +7,18 @@ title: Color Theory
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**A collection of guidelines and laws used to evoke emotion, set moods, and manage user attention through the application of color**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Color theory is a collection of laws, guidelines, and interpretations which guide the selection and use of colors. In user experience design, the meanings associated with certain colors and color groups is particularly significant.
 
-Examples of the 80/20 rule include:
+There are two broad color groups: warm and cool. Warm colors (e.g. red, orange, and yellow) convey happiness, enthusiasm and positivity. Cool colors (e.g. green, blue, and purple) can be used to create calming and relaxing environments.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+Individual colors also have their own meanings. Red can be used to convey importance or danger; error messages and delete buttons are commonly red to make the user aware of this. Green can be used to reassure the user; success messages and primary buttons make good use of this color to tell the user that everything is fine or that they are safe to proceed.
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Beyond concerns of clarity and visual appeal, designers can consider the perceived meaning of the colors they use to strengthen the messages they are trying to deliver.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📘 [Color Theory for Designers, Part 1: The Meaning Of Color](https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/) - Smashing Magazine
+* 📃 [Color Theory](https://en.wikipedia.org/wiki/Color_theory) - Wikipedia
+* 📘 [Interaction of Color](https://www.amazon.co.uk/Interaction-Color-Josef-Albers/dp/0300179359) - Josef Albers

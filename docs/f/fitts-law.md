@@ -7,29 +7,16 @@ title: Fitt's Law
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**The size and distance of a target affects the time required to move to it**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Devised by psychologist Paul Fitts in 1954, this law states that the time needed to make a single movement to a resting position over a target is influenced by the distance between the starting point and the target, and the size of the target For example, moving a mouse pointer to rest on a large button a short distance away will take less time than moving the pointer to a smaller button at a greater distance.
 
-Examples of the 80/20 rule include:
+Fitts's Law has been shown to work in a wide range of conditions and using different parts of the body, for example hands, feet, eyes, and head- mounted sights. It also works with different input devices and in various physical environments.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Faster movement speeds and/or smaller targets will reduce accuracy. Designers can make targets larger or closer to decrease the time needed to move to them, but care should be taken to ensure the benefits of these changes don't cause other usability problems.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Fitts's Law](https://en.wikipedia.org/wiki/Fitts's_law) - Wikipedia
+* 📃 [Improving Usability with Fitts's Law](https://www.webpagefx.com/blog/web-design/improving-usability-with-fitts-law/) - Six Revisions
+* 📃 [When You Shouldn't Use Fitts's Law To Measure user Experience](https://www.smashingmagazine.com/2012/12/fittss-law-and-user-experience/) - Smashing Magazine

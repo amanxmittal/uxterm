@@ -7,29 +7,16 @@ title: Gestalt Laws of Grouping
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**A set of principles which describe how humans perceive patterns in objects**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
-
-Examples of the 80/20 rule include:
-
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+* **Proximity**: when elements are placed near to each other, they are perceived to be grouped. For example, in a HTML form, if a label is placed too far away from the field it is associated with, they will not appear to be related.
+* **Similarity**: when elements look similar or are identical to each other, they are perceived to be grouped. For example, in most desktop operating systems, each file format has a unique icon. When files of various formats are shown together, the files of each format are perceived as a separate group.
+* **Closure**: when elements are arranged together in a manner resembling an incomplete shape, the shape will be perceived. For example, a circle broken into four quarters, with space in between, will still be perceived as a circle.
+* **Continuity**: when two or more objects intersect, they are perceived to be one object. For example, when two straight lines intersect, they are perceived to be a single 'cross'-shaped object, not two separate objects.
+* **Common fate**: when objects move in the same direction at the same time, they are perceived to be grouped. For example, navigating between slides in a carousel, the images, text and buttons on each slide will move together, showing that they are grouped.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Design Principles: Visual Perception And The Principles Of Gestalt](https://amanmittal.me) - Smashing Magazine
+* 📃 [Gestalt Laws Of Perception and how to use them in Ul design](https://amanmittal.me) - Architecting Usability
+* 📃 [Principles of Grouping](https://amanmittal.me) - Wikipedia

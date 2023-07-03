@@ -7,29 +7,16 @@ title: Eye Tracking
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**Technology which calculates and records what users are looking at, for the evaluation of user interfaces**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+Eye tracking is a usability testing technology that tracks the direction of a user's gaze, calculates the point on a screen where their eyes are focused, and records this data many times per second. This data can be visualised, and is often overlaid on video of the interface in use, enabling insight into the behaviour of users. Besides the gaze data itself, direct video and audio of users is often captured simultaneously to assist interpretation.
 
-Examples of the 80/20 rule include:
+Typically, a test facilitator will be present to watch the user's performance in real time, but recording allows for review and in-depth analysis after the test has finished. Other user testing techniques like observation, interviews, and the think-aloud protocol are often combined with eye tracking to substantiate findings.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
-
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+Due to the high sample rate, it is possible to precisely calculate useful statistics like discovery time. Gaze plot and heatmap visualizations are common products of eye tracking analysis software, and are often used as evidence to demonstrate observations and back up suggestions.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📘 [Eye Tracking the User Experience](http://rosenfeldmedia.com/books/eye-tracking-the-user-experience/) - Aga Bojko
+* 📃 [Eye tracking](https://en.wikipedia.org/wiki/Eye_tracking) - Wikipedia
+* 📃 [How to Conduct Eyetracking Studies](https://www.nngroup.com/reports/how-to-conduct-eyetracking-studies/) - Kara Pernice and Jakob Nielsen

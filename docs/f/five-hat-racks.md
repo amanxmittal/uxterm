@@ -7,29 +7,24 @@ title: Five Hat Racks
 
 #### Define
 
-In large systems, a high percentage of effects come from a low percentage of causes.
+**Information can be organised in five ways: by category, time, location, alphabet, and continuum**
 
-Also known as 'the Pareto Principle', and 'the Law of Vital Few and Trivial Many', this rule declares that the majority (70-90%) of effects in a large system are caused by a minority (10-30%) of variables in that system. This rule can be applied to a range of systems including economics, engineering, design, project management, and quality control.
+The organisation of information highly influences how it is understood by users. The Five Hat Racks design principle was originally developed as part of Richard Wurman's 1989 work *Information Anxiety*,, exploring how to increase the amount of information we can grasp, given the digital age's creation of a sharp increase in the volume of data available to us.
 
-Examples of the 80/20 rule include:
+Wurman highlighted that "while information may be infinite, the ways of structuring it are not"; regardless of the specific subject material, effective structures can increase the amount of information people can retain. The 'Five Hat Racks' design principle reveals the five ways to best organise information.
 
-* 80% of errors are caused by 20% of code 
-* 80% of revenue comes from 20% of customers
-* 80% of time is spent using 20% of a product's features
-* 80% of wealth in Italy is owned by 20% of the population
-* 80% of website traffic occurs during 20% of the time
+* **Location**: sorting by physical (geographic or spatial) location. It should be used when giving directions, or where position is important, such as landmarks on a map, or historic sites.
+* **Alphabet**: ordering by alphabetical sequence, such as dictionaries and encyclopaedias. It is most often used to increase efficiency when people need to access vast amounts of information, and exists as a back-up when it isn't clear which sorting strategy is most appropriate.
+* **Time**: ordering by chronological sequence, such as TV guides. It is most effective when users require a time-based sequence or presentation, such as cooking instructions or historical timelines.
+* **Category**: grouping by similarity or relatedness, such as by colour, shape, or model. It should be used when people would naturally look for something by category, like when looking to purchase a new fridge, they would expect it to be grouped with kitchen appliances.
+* **Continuum (or hierarchy)**: ordering by magnitude, such as highest to lowest, or best to worst. It is best used when users will naturally wish to compare the information.
 
-In design and development the rule can be useful in focusing resources. For example, if users of a product utilise 20% of its functions 80% of the time, design and testing time should be concentrated on the 20% of features which are used most often. Functions which fall in the less-used 80% could be hidden from the interface or removed from the system entirely.
+The five methods are also known by the acronym ‘LATCH’.
+
+The name is derived from an analogy, where 'hats' represent information, and 'racks' are the organisation strategies on which they are hung.
 
 #### Resources
 
-* 📃 [80/20 Rule Applies to Bugs, Not Just Features](https://amanmittal.me) - CRN
-* 📃 [Pareto Principle](https://amanmittal.me) - Wikipedia
-* 📃 [The 80/20 Rule Applied to Web Design](https://amanmittal.me) - Web Designer Depot
-* 📘 [Universal Principles of Design](https://amanmittal.me) - Lidwell, Holden and Butleresign
-
-Web Designer Depot
-
-Universal Principles of Design
-
-Lidwell, Holden and Butler
+* 📃 [Creating a Framework for Your Ideas](https://dougtoft.net/2014/03/11/creating-a-framework-for-your-ideas/) - Doug Toft
+* 📃 [ Information Anxiety](http://www.jonkolko.com/projectFiles/scad/IACT370_04_InformationAnxiety.pdf) - Richard S. Wurman (summary by Jon Kolko)
+* ▶️ [The Five Hat Racks](https://www.youtube.com/watch?v=Tgi1JQGHENI) - W. Wong
