@@ -1,7 +1,7 @@
 module.exports = {
 	title: 'UX Terms',
 	tagline: 'All the tools you need to start building a modern WordPress project, using all the latest front end development tools.',
-	url: 'https://infinum.github.io',
+	url: 'https://uxterm.amanmittal.me',
 	// baseUrl: '/eightshift-docs/',
 	baseUrl: '/',
 	favicon: 'img/favicon.png',
@@ -18,8 +18,8 @@ module.exports = {
 	themeConfig: {
 		navbar: {
 			logo: {
-				alt: 'Eightshift Development kit Logo',
-				src: 'img/eightshift-dev-kit-logo.svg',
+				alt: 'UX Guide by Aman Mittal Logo',
+				src: 'img/ux-guide-by-aman-mittal-logo.svg',
 			},
 			// items: [
 			// 	{
@@ -60,6 +60,52 @@ module.exports = {
 			// 	},
 			// ],
 		},
+
+		// footer: {
+		// 	style: 'dark',
+		// 	links: [
+		// 	  {
+		// 		title: 'Docs',
+		// 		items: [
+		// 		  {
+		// 			label: 'Tutorial',
+		// 			to: '/docs/intro',
+		// 		  },
+		// 		],
+		// 	  },
+		// 	  {
+		// 		title: 'Community',
+		// 		items: [
+		// 		  {
+		// 			label: 'Stack Overflow',
+		// 			href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+		// 		  },
+		// 		  {
+		// 			label: 'Discord',
+		// 			href: 'https://discordapp.com/invite/docusaurus',
+		// 		  },
+		// 		  {
+		// 			label: 'Twitter',
+		// 			href: 'https://twitter.com/docusaurus',
+		// 		  },
+		// 		],
+		// 	  },
+		// 	  {
+		// 		title: 'More',
+		// 		items: [
+		// 		  {
+		// 			label: 'Blog',
+		// 			to: '/blog',
+		// 		  },
+		// 		  {
+		// 			label: 'GitHub',
+		// 			href: 'https://github.com/facebook/docusaurus',
+		// 		  },
+		// 		],
+		// 	  },
+		// 	],
+		// 	copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+		//   },
 		tableOfContents: {
 			minHeadingLevel: 2,
 			maxHeadingLevel: 5,

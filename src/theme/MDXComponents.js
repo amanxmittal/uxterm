@@ -13,6 +13,6 @@ export default {
   // Re-use the default mapping
   ...MDXComponents,
   icon: Icon, // Make the iconify Icon component available in MDX as <icon />.
-  iconfa: FontAwesomeIcon, // Make the FontAwesomeIcon component available in MDX as <icon />.
+  iconfa: FontAwesomeIcon, // Make the FontAwesomeIcon component available in MDX as <iconfa />.
   
 };

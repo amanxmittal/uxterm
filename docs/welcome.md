@@ -1,19 +1,27 @@
 ---
 slug: /
 id: welcome
-title: Welcome
+title: The Ultimate UX Design Glossary
 ---
 
-## Eightshift Development Kit
+####
 
-Eightshift Development Kit is a modern, developer-friendly solution that makes building large, feature-rich WordPress projects painless. 
-It contains all the tools you need to start building a modern WordPress theme or plugin, using battle-tested front-end and back-end development tools and practices.
+####
 
-<icon icon="mdi:github" height="48" /> This is a GitHub icon.
-<iconfa icon="fa-brands fa-github" size="lg" /> This is a GitHub icon.
+Moving into a new field is challenging. Add being unfamiliar with its terminology and jargon to the mix, and the experience is overwhelming. Getting started in UX is no different.
 
-### Features
+Knowing your way around UX and tech terms and jargon can help release some of the pressure. It’ll also give you the confidence to engage in design talks, ask questions, and network with ease. Here are UX and tech terms I would have loved to know as a young UX designer.
 
+<!-- <icon icon="mdi:github" height="48" /> This is a GitHub icon.
+<iconfa icon="fa-brands fa-github" size="lg" /> This is a GitHub icon. -->
+
+#### About the Author
+
+[Aman Mittal](https://amanmittal/me)
+
+[A/B testing](a/ab-testing.md)
+
+<!-- 
 The Eightshift Development Kit provides you with a lot of useful features, so let's take a quick look at some of the core ones:
 - **Custom Block Editor blocks** - Using automatic block registration and attribute handling features, building dynamic Gutenberg blocks with the Eightshift Development Kit is a joy. We also provide an extensive library of blocks and components that you can use and customize in your projects. 
   - **Dynamic blocks** - The Eightshift Development Kit is focused on supporting dynamic blocks, a type of WordPress blocks that are rendered from attributes instead of being serialized as HTML. Dynamic blocks allow you more flexibility when developing and avoid issues with Gutenberg's validation, ensuring you can ship new features and update existing blocks in record time.
@@ -45,4 +53,4 @@ Eightshift Frontend Libs houses our frontend code, including various helpers, Ja
 
 We provide [boilerplates for themes](https://github.com/infinum/eightshift-boilerplate) and [plugins](https://github.com/infinum/eightshift-boilerplate-plugin/), so you can start building your project right away - without manually setting up the libraries above.
 
-The easiest way to set up the Development Kit is to use the `npx create-wp-project` command, which we'll go into further detail about in the following chapters.
+The easiest way to set up the Development Kit is to use the `npx create-wp-project` command, which we'll go into further detail about in the following chapters. -->
