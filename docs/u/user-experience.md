@@ -3,7 +3,7 @@ id: user-experience
 title: User-Experience
 ---
 
-[![docs-source](https://img.shields.io/badge/SRC-UX%20Companion-blue)](https://play.google.com/store/apps/details?id=com.cyberduck.uxcompanion)
+<!-- [![docs-source](https://img.shields.io/badge/SRC-UX%20Companion-blue)](https://play.google.com/store/apps/details?id=com.cyberduck.uxcompanion) -->
 
 #### Define
 

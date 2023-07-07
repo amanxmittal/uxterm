@@ -3,7 +3,7 @@ id: signal-to-noise-ratio
 title: Signal-to-Noise Ratio
 ---
 
-[![docs-source](https://img.shields.io/badge/SRC-UX%20Companion-blue)](https://play.google.com/store/apps/details?id=com.cyberduck.uxcompanion)
+<!-- [![docs-source](https://img.shields.io/badge/SRC-UX%20Companion-blue)](https://play.google.com/store/apps/details?id=com.cyberduck.uxcompanion) -->
 
 #### Define
 

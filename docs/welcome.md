@@ -12,6 +12,8 @@ Moving into a new field is challenging. Add being unfamiliar with its terminolog
 
 Knowing your way around UX and tech terms and jargon can help release some of the pressure. It’ll also give you the confidence to engage in design talks, ask questions, and network with ease. Here are UX and tech terms I would have loved to know as a young UX designer.
 
+[![docs-source](https://img.shields.io/badge/SRC-UX%20Companion-blue)](https://play.google.com/store/apps/details?id=com.cyberduck.uxcompanion)
+
 <!-- <icon icon="mdi:github" height="48" /> This is a GitHub icon.
 <iconfa icon="fa-brands fa-github" size="lg" /> This is a GitHub icon. -->
 

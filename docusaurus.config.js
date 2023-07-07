@@ -4,7 +4,7 @@ module.exports = {
 	url: 'https://uxterm.amanmittal.me',
 	// baseUrl: '/eightshift-docs/',
 	baseUrl: '/',
-	favicon: 'img/favicon.png',
+	favicon: 'img/favicon1.png',
 	organizationName: 'amanmittal',
 	projectName: 'ux-terms',
 	staticDirectories: ['static'],

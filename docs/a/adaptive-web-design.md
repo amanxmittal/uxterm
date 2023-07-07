@@ -3,7 +3,7 @@ id: adaptive-web-design
 title: Adaptive Web Design (AWD)
 ---
 
-[![docs-source](https://img.shields.io/badge/SRC-UX%20Companion-blue)](https://play.google.com/store/apps/details?id=com.cyberduck.uxcompanion)
+<!-- [![docs-source](https://img.shields.io/badge/SRC-UX%20Companion-blue)](https://play.google.com/store/apps/details?id=com.cyberduck.uxcompanion) -->
 
 #### Define
 
@@ -13,11 +13,11 @@ The term Adaptive Web Design (AWD) was coined by Aaron Gustafson to describe a w
 
 AWD uses techniques such as responsive web design (RWD) and feature detection to deliver an optimised version of the site. Though visuals will change, ideally functionality will be similar, and content should be consistent everywhere.
 
-Optimisations may include increasing the size of controls to make them touch-friendly, integrating functionality like telephone calls or camera use when compatible hardware is detected, or sending smaller images to devices on slower internet connections
+Optimisations may include increasing the size of controls to make them touch-friendly, integrating functionality like telephone calls or camera use when compatible hardware is detected, or sending smaller images to devices on slower internet connections.
 
-
+<!-- 
 <iconfa icon="fa-solid fa-book" size="lg" />
-<iconfa icon="fa-solid fa-newspaper" size="lg" />
+<iconfa icon="fa-solid fa-newspaper" size="lg" /> -->
 
 #### Resources
 

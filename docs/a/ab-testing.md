@@ -3,7 +3,7 @@ id: ab-testing
 title: A/B Testing
 ---
 
-[![docs-source](https://img.shields.io/badge/SRC-UX%20Companion-blue)](https://play.google.com/store/apps/details?id=com.cyberduck.uxcompanion)
+<!-- [![docs-source](https://img.shields.io/badge/SRC-UX%20Companion-blue)](https://play.google.com/store/apps/details?id=com.cyberduck.uxcompanion) -->
 
 #### Define
 
@@ -26,6 +26,6 @@ Through close, data-driven analysis, A/B testing removes the guesswork from webs
 
 #### Resources
 
-* 📃 [A Beginner's Guide to A/B Testing An Introduction](https://amanmittal.me) - Kissmetrics
-* 📃 [The A/B Test: Inside the Technology That's Changing the Rules of Business](https://amanmittal.me) - Wired
-* 📃 [The Complete Guide to A/B Testing](https://vmo.com/ab-testing/) - VWO
+* 📃 [A Beginner's Guide to A/B Testing An Introduction](https://blog.kissmetrics.com/ab-testing-introduction/) - Kissmetrics
+* 📃 [The A/B Test: Inside the Technology That's Changing the Rules of Business](https://www.wired.com/2012/04/ff_abtesting) - Wired
+* 📃 [The Complete Guide to A/B Testing](https://vwo.com/ab-testing/) - VWO
