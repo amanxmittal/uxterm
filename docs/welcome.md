@@ -19,9 +19,16 @@ Knowing your way around UX and tech terms and jargon can help release some of th
 
 #### About the Author
 
-[Aman Mittal](https://amanmittal/me)
+[Aman Mittal](https://amanmittal.me)
 
-[A/B testing](a/ab-testing.md)
+I am a user experience designer from Delhi, India. I have done my bachelor's degree 🎓 in Computer Science 💻, and I’ve been fortunate enough to work alongside various peoples from diverse fields (not limited to designers 🙅‍♂️) since 2019.
+
+The time I have spent on various projects over the period has evolved my thought process on how to understand people 👨‍👩‍👧‍👦 and their problems 🦯 and collaborating 🤝 their needs to make sure we end up with a great product that is impactful 🎇.
+
+Currently, I am a UX Designer at Digital India Corporation (DIC), where I am working ⚒ on multiple eGovernment Projects such as DigiLocker, API-Setu, National Academic Depository etcetera.
+
+I spend my leisure time ⛵ working on side-projects 👷‍♂️ (UX Design and 3D Modeling), listening to podcasts 🎙, watching youtube 📺, playing Badminton 🏸 and swimming🏊‍♂️.
+
 
 <!-- 
 The Eightshift Development Kit provides you with a lot of useful features, so let's take a quick look at some of the core ones:

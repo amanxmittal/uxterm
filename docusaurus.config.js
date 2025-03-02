@@ -1,6 +1,6 @@
 module.exports = {
 	title: 'UX Terms',
-	tagline: 'All the tools you need to start building a modern WordPress project, using all the latest front end development tools.',
+	tagline: 'This list of common user experience (UX) design terms provides an overview of key topics in UX/UI design, research, and writing. Whether you are just starting your career or switching from another field, you can learn UX terminology and feel confident in your job search.',
 	url: 'https://uxterm.amanmittal.me',
 	// baseUrl: '/eightshift-docs/',
 	baseUrl: '/',
